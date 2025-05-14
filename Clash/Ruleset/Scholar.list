@@ -115,6 +115,7 @@ DOMAIN-SUFFIX,sigplan.org
 DOMAIN-SUFFIX,i-cav.org
 
 # editormanager
+DOMAIN-SUFFIX,editorialmanager.com
 DOMAIN-SUFFIX,openreview.net
 DOMAIN-SUFFIX,research.microsoft.com
 DOMAIN-SUFFIX,aclrollingreview.org
