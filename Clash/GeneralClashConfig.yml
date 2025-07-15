@@ -77,27 +77,39 @@ dns:
     - "+.local"
     - localhost.ptlogin2.qq.com
   default-nameserver:
-    - 223.5.5.5
-    - 223.6.6.6
+    - tls://223.5.5.5:853
+    - tls://223.6.6.6:853
+    - tls://119.29.29.29:853
   nameserver-policy:
     '+.internal.crop.com': '10.0.0.1'
     'geosite:cn,private':
     - https://223.5.5.5/dns-query
+    - https://sm2.doh.pub/dns-query
     - https://223.6.6.6/dns-query
+    - https://119.29.29.29/dns-query
+    'geosite:geolocation-!cn': 
+    - tls://8.8.4.4:853
+    - tls://8.8.8.8:853
+    - https://1.0.0.1/dns-query
+    - tls://1.1.1.1:853
+    - https://dns.quad9.net/dns-query
   nameserver:
-    - https://dns.alidns.com/dns-query
-    - https://doh.pub/dns-query
-    - dhcp://en0
+    - https://223.5.5.5/dns-query
+    - https://sm2.doh.pub/dns-query
+    - https://223.6.6.6/dns-query
+    - https://119.29.29.29/dns-query
   proxy-server-nameserver:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
   fallback:
     - https://1.0.0.1/dns-query
     - https://1.1.1.1/dns-query
+    - https://dns.quad9.net/dns-query
     - https://8.8.8.8/dns-query
     - https://8.8.4.4/dns-query
   fallback-filter:
     geoip: true
+    geoip-code: CN
     geosite:
       - gfw
     ipcidr:
