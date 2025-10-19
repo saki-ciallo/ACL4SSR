@@ -124,3 +124,8 @@ DOMAIN-SUFFIX,research.microsoft.com
 DOMAIN-SUFFIX,aclrollingreview.org
 DOMAIN-SUFFIX,easychair.org
 DOMAIN-SUFFIX,hotcrp.com
+
+# AI DATASETS
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,zendo.org
