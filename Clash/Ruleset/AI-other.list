@@ -8,3 +8,6 @@ DOMAIN,apple-relay.apple.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,apple-relay.cloudflare.com
+
+# AI IDE
+DOMAIN-SUFFIX,cursor.com
