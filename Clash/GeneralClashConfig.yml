@@ -290,7 +290,6 @@ cfw-bypass-bak:
 # 系统代理跳过列表 起作用的
 cfw-bypass:
   # 直连列表
-  - '*.edu.cn'
   # MyList
   - "*.13th.tech"
   - "*.423down.com"
@@ -352,6 +351,7 @@ cfw-bypass:
   - "*.aliapp.org"
   - "*.alibaba.com"
   - "*.alibabacloud.com"
+  - "*.alibabachengdun.com"
   - "*.alibabausercontent.com"
   - "*.alicdn.com"
   - "*.alicloudccp.com"
@@ -370,6 +370,7 @@ cfw-bypass:
   - "*.autonavi.com"
   - "*.dingtalk.com"
   - "*.ele.me"
+  - "*.elemecdn.com"
   - "*.hichina.com"
   - "*.mmstat.com"
   - "*.mxhichina.com"
@@ -377,6 +378,7 @@ cfw-bypass:
   - "*.taobao.com"
   - "*.taobaocdn.com"
   - "*.tbcache.com"
+  - "*.tbcdn.cn"
   - "*.tbcdn.com"
   - "*.tmall.com"
   - "*.tmall.hk"
@@ -733,6 +735,7 @@ cfw-bypass:
   - "*.air-matters.io"
   - "*.aixifan.com"
   - "*.algocasts.io"
+  - "*.asklink.com"
   - "*.babytree.com"
   - "*.babytreeimg.com"
   - "*.baicizhan.com"
