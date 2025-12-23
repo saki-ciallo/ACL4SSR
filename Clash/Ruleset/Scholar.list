@@ -129,3 +129,6 @@ DOMAIN-SUFFIX,hotcrp.com
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,zendo.org
+
+# Google Scholar
+DOMAIN-SUFFIX,scholar.google.com
