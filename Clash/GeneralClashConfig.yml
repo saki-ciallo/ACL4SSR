@@ -130,6 +130,7 @@ dns:
       - 240.0.0.0/4
     domain:
       - '+.google.com'
+      - '+.googleapis.cn'
       - '+.facebook.com'
       - '+.youtube.com'
       - '+.netflix.com'
