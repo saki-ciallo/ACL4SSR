@@ -129,6 +129,7 @@ dns:
     ipcidr:
       - 240.0.0.0/4
     domain:
+      - '+.google.cn'
       - '+.gstatic.com'
       - '+.google.com'
       - '+.googleapis.cn'
