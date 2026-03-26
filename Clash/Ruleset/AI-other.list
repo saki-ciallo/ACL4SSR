@@ -5,7 +5,6 @@ DOMAIN-SUFFIX,cerebras.ai
 
 # Copilot 部分IP可以使用 claude
 DOMAIN-SUFFIX,githubcopilot.com  
-域名后缀，githubcopilot.com
 
 # 内容：OpenAi,claude,recraft,bing
 
