@@ -3,6 +3,7 @@
 # AI Router
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,anyrouter.top
+DOMAIN-SUFFIX,qaq.al
 
 # AI Tools
 PROCESS-NAME,LM Studio
@@ -10,7 +11,8 @@ DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,recraft.ai
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
-
+DOMAIN-SUFFIX,opencode.ai
+DOMAIN-SUFFIX,openclaw.ai
 
 
 # AI
@@ -28,6 +30,9 @@ DOMAIN-SUFFIX,mistral.ai
 
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
+
+# Moniac
+DOMAIN-SUFFIX,monica.im
 
 # POE
 DOMAIN-SUFFIX,poe.com
