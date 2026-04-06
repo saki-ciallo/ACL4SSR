@@ -113,6 +113,7 @@ DOMAIN-SUFFIX,usenix.org
 DOMAIN-SUFFIX,sigsac.org
 DOMAIN-SUFFIX,ndss-symposium.org
 DOMAIN-SUFFIX,ieee-security.org
+DOMAIN-SUFFIX,ieeeicassp.org
 DOMAIN-SUFFIX,sigplan.org
 DOMAIN-SUFFIX,sigplan.org
 DOMAIN-SUFFIX,splashcon.org
@@ -126,6 +127,9 @@ DOMAIN-SUFFIX,research.microsoft.com
 DOMAIN-SUFFIX,aclrollingreview.org
 DOMAIN-SUFFIX,easychair.org
 DOMAIN-SUFFIX,hotcrp.com
+
+# IEEE
+DOMAIN-SUFFIX,cmsworkshops.com
 
 # AI DATASETS
 DOMAIN-SUFFIX,hf.co
