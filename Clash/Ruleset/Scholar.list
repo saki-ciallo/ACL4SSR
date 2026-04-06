@@ -138,3 +138,7 @@ DOMAIN-SUFFIX,zendo.org
 
 # Google Scholar
 DOMAIN-SUFFIX,scholar.google.com
+
+# Written Tools
+DOMAIN-SUFFIX,grammarly.com
+DOMAIN-SUFFIX,overleaf.com
