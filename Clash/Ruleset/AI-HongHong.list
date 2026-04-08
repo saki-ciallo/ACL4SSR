@@ -45,12 +45,7 @@ DOMAIN-SUFFIX,grok.com
 
 # Google Gemini 
 DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
 DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,ai.google.dev
-DOMAIN-SUFFIX,ai.google
-DOMAIN-SUFFIX,generativeai.google
 
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
