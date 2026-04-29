@@ -132,11 +132,6 @@ DOMAIN-SUFFIX,hotcrp.com
 # IEEE
 DOMAIN-SUFFIX,cmsworkshops.com
 
-# AI DATASETS
-DOMAIN-SUFFIX,hf.co
-DOMAIN-SUFFIX,huggingface.co
-DOMAIN-SUFFIX,zendo.org
-
 # Google Scholar
 DOMAIN-SUFFIX,scholar.google.com
 
