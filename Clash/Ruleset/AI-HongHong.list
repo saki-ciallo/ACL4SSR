@@ -50,3 +50,7 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 
+# AI DATASETS
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,zendo.org
