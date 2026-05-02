@@ -225,7 +225,7 @@ cfw-conn-break-strategy:
 #  latency：按节点延迟升序排列
 #  alphabet：按节点名称字母表排列
 # Sort proxies in Proxies module by default/latency/alphabet
-cfw-proxies-order: default
+cfw-proxies-order: alphabet
 
 # 子进程 启动其他应用
 # Run child process after CFW started
