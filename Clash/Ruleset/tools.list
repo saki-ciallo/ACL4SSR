@@ -1,0 +1,7 @@
+# https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/Ruleset/Developer.list
+# 补充规则
+
+
+# AI open dataset
+DOMAIN-SUFFIX,zendo.org
+
