@@ -1,6 +1,7 @@
 # https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/Ruleset/Developer.list
 # 补充规则
 
+DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,immersivetranslate.com
 
