@@ -1,9 +1,10 @@
 # https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/Ruleset/Developer.list
 # 补充规则
 
+DOMAIN-SUFFIX,termius.com
+DOMAIN-SUFFIX,immersivetranslate.com
 
 # AI open dataset
 DOMAIN-SUFFIX,zendo.org
-
-
 DOMAIN-SUFFIX,pytorch.org
+
