@@ -1,3 +1,5 @@
 # NAME: WarThunder 
+
+# Ru, Cluster LLC
 IP-CIDR,185.253.20.0/24,no-resolve
-SRC-IP-ASN,48989,no-resolve # Ru, Cluster LLC
+SRC-IP-ASN,48989,no-resolve
