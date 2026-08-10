@@ -1,5 +1,16 @@
 # NAME: WarThunder 
 
-# Ru, Cluster LLC
+DOMAIN-SUFFIX,warthunder.com
+
+
+# Russia
 IP-CIDR,185.253.20.0/24,no-resolve
-SRC-IP-ASN,48989,no-resolve
+IP-CIDR,158.160.90.0/24,no-resolve
+SRC-IP-ASN,48989,no-resolve # Cluster LLC
+SRC-IP-ASN,200350,no-resolve # Yandex
+
+# Luxembourg
+IP-CIDR,188.42.39.0/24,no-resolve
+SRC-IP-ASN,7979,no-resolve # Servers
+
+
