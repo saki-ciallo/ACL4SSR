@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,dashlane.com
 
 # AI open dataset
 DOMAIN-SUFFIX,zendo.org
