@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,zotero.org
 # conference
 DOMAIN-SUFFIX,aaai.org
 DOMAIN-SUFFIX,ijcai.org
+DOMAIN-SUFFIX,iclr.cc
 DOMAIN-SUFFIX,neurips.cc
 DOMAIN-SUFFIX,icml.cc
 DOMAIN-SUFFIX,thecvf.com
