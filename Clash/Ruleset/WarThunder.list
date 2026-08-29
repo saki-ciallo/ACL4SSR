@@ -4,13 +4,17 @@ DOMAIN-SUFFIX,warthunder.com
 
 
 # Russia
-IP-CIDR,185.253.20.0/24,no-resolve
-IP-CIDR,158.160.90.0/24,no-resolve
-SRC-IP-ASN,48989,no-resolve # Cluster LLC
-SRC-IP-ASN,200350,no-resolve # Yandex
+IP-CIDR,185.253.20.0/24,no-resolve # Cluster LLC
+IP-CIDR,158.160.90.0/24,no-resolve # Yandex
+IP-CIDR,130.193.51.0/24,no-resolve # Yandex
 
 # Luxembourg
-IP-CIDR,188.42.39.0/24,no-resolve
-SRC-IP-ASN,7979,no-resolve # Servers
+IP-CIDR,188.42.39.0/24,no-resolve # Servers
 
+# US
+IP-CIDR,170.23.224.0/24,no-resolve # Servers
+IP-CIDR,172.240.47.0/24,no-resolve # Servers
+IP-CIDR,23.227.196.0/24,no-resolve # HIVELOCITY
 
+# DE
+IP-CIDR,194.164.180.0/24,no-resolve # ProNow Tech
