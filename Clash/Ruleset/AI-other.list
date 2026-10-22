@@ -85,3 +85,6 @@ PROCESS-NAME,Antigravity Helper (GPU)
 PROCESS-NAME,Antigravity Helper (Plugin)
 DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
 
+# Wandb
+DOMAIN-SUFFIX,coreweave.com
+DOMAIN-SUFFIX,wandb.ai
