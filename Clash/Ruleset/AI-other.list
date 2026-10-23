@@ -3,6 +3,7 @@
 DOMAIN-SUFFIX,cerebras.ai
 
 
+
 # Copilot 部分IP可以使用 claude
 DOMAIN-SUFFIX,githubcopilot.com  
 
@@ -88,3 +89,7 @@ DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
 # Wandb
 DOMAIN-SUFFIX,coreweave.com
 DOMAIN-SUFFIX,wandb.ai
+
+# Workbuddy Global
+DOMAIN-SUFFIX,workbuddy.ai
+DOMAIN-SUFFIX,codebuddy.ai
